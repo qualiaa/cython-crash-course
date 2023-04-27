@@ -1,0 +1,16 @@
+  name: cython-crash-course
+  channels:
+    - conda-forge
+    - defaults
+  dependencies:
+    - python
+    - cython
+    - matplotlib
+
+    - ipython
+    - ipywidgets
+    - ipympl
+    - jupyterlab
+    - jupyterlab_server
+    - nb_conda_kernels
+    - pip
